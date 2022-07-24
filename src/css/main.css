@@ -6,3 +6,38 @@
     padding : 0;
     box-sizing: border-box;
 }
+
+.floor-div {
+
+      border: 1px solid black;
+      width: 90%;
+      height: 300px;
+      margin: 2em;
+}
+
+.lift-div {
+
+      background-color: bisque;
+      width: 200px;
+      height: 200px;
+      border: 1px solid black;
+      margin: 2em;
+
+}
+
+.lift {
+
+    display: flex;
+    align-items: center;
+    margin-left: 6em;
+   
+}
+/* 
+.lift {
+
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black; 
+} */
+
